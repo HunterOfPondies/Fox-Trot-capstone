@@ -1,6 +1,6 @@
 <template>
   <header>
-    <div id="homeLink">
+    <div id="homeLink"> Community
       <router-link v-bind:to="{ name: 'home' }"><img
           src="https://res.cloudinary.com/daprq6s7w/image/upload/v1723474352/foxtrot_logo_fin_noText_zwlfxu.svg" /></router-link>
     </div>
